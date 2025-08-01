@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-import pickle
+# import pickle
 
 # with open("C:/Users/T PLUG/Downloads/data 1 (4)/logistic_regression_model.pkl", "rb") as file:
 #     model = pickle.load(file)
