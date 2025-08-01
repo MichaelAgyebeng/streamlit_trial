@@ -6,7 +6,7 @@ import pickle
 # with open("C:/Users/T PLUG/Downloads/data 1 (4)/logistic_regression_model.pkl", "rb") as file:
 #     model = pickle.load(file)
 # Load the model
-model = joblib.load("C:/Users/T PLUG/Downloads/data 1 (4)/logistic_regression_model.pkl")
+model = joblib.load("logistic__regression_model.pkl")
 
 # UI
 st.title("Term Deposit Subscription Predictor")
